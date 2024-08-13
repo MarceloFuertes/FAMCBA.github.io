@@ -1,4 +1,4 @@
-body {background-color: #234;
+body {background-color: rgb(64, 104, 144);
 }
 
 :root {
@@ -23,7 +23,6 @@ body {background-color: #234;
   margin: 0 auto;
   text-align: center;
   background-image: url(./litro.jpeg);
-  background-position: center ;
 }
 
 .Button {
