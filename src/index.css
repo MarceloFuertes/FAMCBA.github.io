@@ -1,3 +1,6 @@
+body {background-color: #234;
+}
+
 :root {
   --tg-theme-bg-color: #efeff3;
   --tg-theme-button-color: #63d0f9;
@@ -19,6 +22,8 @@
   align-items: center;
   margin: 0 auto;
   text-align: center;
+  background-image: url(./litro.jpeg);
+  background-position: center ;
 }
 
 .Button {
